@@ -1,0 +1,18 @@
+{
+	"name": "MeuExp",
+	"version": "0.0.1",
+	"manifest_version": 2,
+	"description": "文書を芽兎めうの言葉遣いに変換する拡張。",
+	"icons": {
+		"16": "icon16.png",
+		"48": "icon48.png",
+		"128": "icon128.png"
+	},
+	"browser_action": {
+		"default_icon": {
+			"19": "icon19.png"
+		},
+		"default_title": "MeuExp",
+		"default_popup": "popup.html"
+	}
+}
